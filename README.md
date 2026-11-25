@@ -1,5 +1,8 @@
 # Global Corporate Sales Performance Dashboard 2024
 
+<img width="1042" height="633" alt="image" src="https://github.com/user-attachments/assets/a977810d-5380-49c9-a5d2-aa86f6e85f64" />
+
+
 ## 📌 The Business Problem
 The executive team requires a consolidated view of global sales transactions to identify which regions and product categories are driving profitability versus which are operating at a loss. The goal is to isolate high-performing customer segments to optimize future sales strategies.
 
